@@ -5,7 +5,7 @@ The Netflix Sales Dashboard project aims to analyze and visualize key sales perf
 
 ## Dataset
 - <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows"> Netflix dataset </a> available on Kaggle.
-- <a href=" https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows"> Amazon Prime dataset </a> available on Kaggle.
+- <a href="https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows"> Amazon Prime dataset </a> available on Kaggle.
 - <a href="https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows"> Disney Plus dataset </a> available on Kaggle.
 
 ## Project Idea 
