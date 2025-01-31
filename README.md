@@ -11,7 +11,7 @@ The Netflix Sales Dashboard project aims to analyze and visualize key sales perf
 ## Project Idea 
 By analyzing this dataset, the goal is to present a comprehensive overview of various metrics such as yearly release, viewers rating, season rating. Follow these steps for the data visualization part:
 
-## Flight Data Analysis Process
+## Movie Data Analysis Process
 - Use Cards to display total tv shows, total movies, total contries.
 - Plot Line Chart to show yearly release of tv shows and movies.
 - Plot Pie Chart to analyze the magnitude of customer satisfaction based on ratings.
